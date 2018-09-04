@@ -1,0 +1,1062 @@
+when-> appears: 3 times
+
+in-> appears: 19 times
+
+the-> appears: 76 times
+
+course-> appears: 1 times
+
+of-> appears: 76 times
+
+human-> appears: 1 times
+
+events-> appears: 1 times
+
+it-> appears: 6 times
+
+becomes-> appears: 2 times
+
+necessary-> appears: 2 times
+
+for-> appears: 29 times
+
+one-> appears: 1 times
+
+people-> appears: 10 times
+
+to-> appears: 65 times
+
+dissolve-> appears: 1 times
+
+political-> appears: 2 times
+
+bands-> appears: 1 times
+
+which-> appears: 10 times
+
+have-> appears: 11 times
+
+connected-> appears: 1 times
+
+them-> appears: 15 times
+
+with-> appears: 9 times
+
+another-> appears: 1 times
+
+and-> appears: 57 times
+
+assume-> appears: 1 times
+
+among-> appears: 5 times
+
+powers-> appears: 5 times
+
+earth-> appears: 1 times
+
+separate-> appears: 1 times
+
+equal-> appears: 2 times
+
+station-> appears: 1 times
+
+laws-> appears: 9 times
+
+nature-> appears: 1 times
+
+natures-> appears: 1 times
+
+god-> appears: 1 times
+
+entitle-> appears: 1 times
+
+a-> appears: 16 times
+
+decent-> appears: 1 times
+
+respect-> appears: 1 times
+
+opinions-> appears: 1 times
+
+mankind-> appears: 3 times
+
+requires-> appears: 1 times
+
+that-> appears: 12 times
+
+they-> appears: 7 times
+
+should-> appears: 4 times
+
+declare-> appears: 2 times
+
+causes-> appears: 2 times
+
+impel-> appears: 1 times
+
+separation-> appears: 2 times
+
+we-> appears: 11 times
+
+hold-> appears: 3 times
+
+these-> appears: 13 times
+
+truths-> appears: 1 times
+
+be-> appears: 9 times
+
+selfevident-> appears: 1 times
+
+all-> appears: 10 times
+
+men-> appears: 2 times
+
+are-> appears: 9 times
+
+created-> appears: 1 times
+
+endowed-> appears: 1 times
+
+by-> appears: 13 times
+
+their-> appears: 20 times
+
+creator-> appears: 1 times
+
+certain-> appears: 1 times
+
+unalienable-> appears: 1 times
+
+rights-> appears: 3 times
+
+life-> appears: 1 times
+
+liberty-> appears: 1 times
+
+pursuit-> appears: 1 times
+
+happinessthat-> appears: 1 times
+
+secure-> appears: 1 times
+
+governments-> appears: 3 times
+
+instituted-> appears: 1 times
+
+deriving-> appears: 1 times
+
+just-> appears: 1 times
+
+from-> appears: 6 times
+
+consent-> appears: 3 times
+
+governed-> appears: 1 times
+
+whenever-> appears: 1 times
+
+any-> appears: 2 times
+
+form-> appears: 2 times
+
+government-> appears: 6 times
+
+destructive-> appears: 1 times
+
+ends-> appears: 1 times
+
+is-> appears: 10 times
+
+right-> appears: 7 times
+
+alter-> appears: 2 times
+
+or-> appears: 2 times
+
+abolish-> appears: 1 times
+
+institute-> appears: 1 times
+
+new-> appears: 4 times
+
+laying-> appears: 1 times
+
+its-> appears: 3 times
+
+foundation-> appears: 1 times
+
+on-> appears: 8 times
+
+such-> appears: 6 times
+
+principles-> appears: 1 times
+
+organizing-> appears: 1 times
+
+as-> appears: 4 times
+
+shall-> appears: 1 times
+
+seem-> appears: 1 times
+
+most-> appears: 5 times
+
+likely-> appears: 1 times
+
+effect-> appears: 1 times
+
+safety-> appears: 1 times
+
+happiness-> appears: 1 times
+
+prudence-> appears: 1 times
+
+indeed-> appears: 1 times
+
+will-> appears: 2 times
+
+dictate-> appears: 1 times
+
+long-> appears: 3 times
+
+established-> appears: 1 times
+
+not-> appears: 1 times
+
+changed-> appears: 1 times
+
+light-> appears: 1 times
+
+transient-> appears: 1 times
+
+accordingly-> appears: 1 times
+
+experience-> appears: 1 times
+
+hath-> appears: 1 times
+
+shewn-> appears: 1 times
+
+more-> appears: 1 times
+
+disposed-> appears: 1 times
+
+suffer-> appears: 1 times
+
+while-> appears: 1 times
+
+evils-> appears: 1 times
+
+sufferable-> appears: 1 times
+
+than-> appears: 1 times
+
+themselves-> appears: 3 times
+
+abolishing-> appears: 3 times
+
+forms-> appears: 2 times
+
+accustomed-> appears: 1 times
+
+but-> appears: 1 times
+
+train-> appears: 1 times
+
+abuses-> appears: 1 times
+
+usurpations-> appears: 3 times
+
+pursuing-> appears: 1 times
+
+invariably-> appears: 1 times
+
+same-> appears: 2 times
+
+object-> appears: 2 times
+
+evinces-> appears: 1 times
+
+design-> appears: 1 times
+
+reduce-> appears: 1 times
+
+under-> appears: 1 times
+
+absolute-> appears: 3 times
+
+despotism-> appears: 1 times
+
+duty-> appears: 1 times
+
+throw-> appears: 1 times
+
+off-> appears: 2 times
+
+provide-> appears: 1 times
+
+guards-> appears: 1 times
+
+future-> appears: 1 times
+
+security-> appears: 1 times
+
+has-> appears: 20 times
+
+been-> appears: 4 times
+
+patient-> appears: 1 times
+
+sufferance-> appears: 1 times
+
+colonies-> appears: 4 times
+
+now-> appears: 1 times
+
+necessity-> appears: 2 times
+
+constrains-> appears: 1 times
+
+former-> appears: 1 times
+
+systems-> appears: 1 times
+
+history-> appears: 2 times
+
+present-> appears: 1 times
+
+king-> appears: 1 times
+
+greatbritain-> appears: 2 times
+
+repeated-> appears: 3 times
+
+injuries-> appears: 1 times
+
+having-> appears: 1 times
+
+direct-> appears: 1 times
+
+establishment-> appears: 1 times
+
+an-> appears: 5 times
+
+tyranny-> appears: 3 times
+
+over-> appears: 2 times
+
+states-> appears: 7 times
+
+prove-> appears: 1 times
+
+this-> appears: 3 times
+
+let-> appears: 1 times
+
+facts-> appears: 1 times
+
+submitted-> appears: 1 times
+
+candid-> appears: 1 times
+
+world-> appears: 3 times
+
+he-> appears: 19 times
+
+refused-> appears: 3 times
+
+his-> appears: 9 times
+
+assent-> appears: 4 times
+
+wholesome-> appears: 1 times
+
+public-> appears: 2 times
+
+good-> appears: 2 times
+
+forbidden-> appears: 1 times
+
+governors-> appears: 1 times
+
+pass-> appears: 3 times
+
+immediate-> appears: 1 times
+
+pressing-> appears: 1 times
+
+importance-> appears: 1 times
+
+unless-> appears: 2 times
+
+suspended-> appears: 2 times
+
+operation-> appears: 1 times
+
+till-> appears: 1 times
+
+obtained-> appears: 1 times
+
+so-> appears: 2 times
+
+utterly-> appears: 1 times
+
+neglected-> appears: 1 times
+
+attend-> appears: 1 times
+
+other-> appears: 3 times
+
+accommodation-> appears: 1 times
+
+large-> appears: 4 times
+
+districts-> appears: 1 times
+
+those-> appears: 1 times
+
+would-> appears: 2 times
+
+relinquish-> appears: 1 times
+
+representation-> appears: 1 times
+
+legislature-> appears: 2 times
+
+inestimable-> appears: 1 times
+
+formidable-> appears: 1 times
+
+only-> appears: 2 times
+
+called-> appears: 1 times
+
+together-> appears: 1 times
+
+legislative-> appears: 2 times
+
+bodies-> appears: 2 times
+
+at-> appears: 4 times
+
+places-> appears: 1 times
+
+unusual-> appears: 1 times
+
+uncomfortable-> appears: 1 times
+
+distant-> appears: 1 times
+
+depository-> appears: 1 times
+
+records-> appears: 1 times
+
+sole-> appears: 1 times
+
+purpose-> appears: 2 times
+
+fatiguing-> appears: 1 times
+
+into-> appears: 2 times
+
+compliance-> appears: 1 times
+
+measures-> appears: 1 times
+
+dissolved-> appears: 2 times
+
+representative-> appears: 1 times
+
+houses-> appears: 1 times
+
+repeatedly-> appears: 1 times
+
+opposing-> appears: 1 times
+
+manly-> appears: 1 times
+
+firmness-> appears: 1 times
+
+invasions-> appears: 1 times
+
+time-> appears: 5 times
+
+after-> appears: 1 times
+
+dissolutions-> appears: 1 times
+
+cause-> appears: 1 times
+
+others-> appears: 3 times
+
+elected-> appears: 1 times
+
+whereby-> appears: 1 times
+
+incapable-> appears: 1 times
+
+annihilation-> appears: 1 times
+
+returned-> appears: 1 times
+
+exercise-> appears: 1 times
+
+state-> appears: 2 times
+
+remaining-> appears: 1 times
+
+mean-> appears: 1 times
+
+exposed-> appears: 1 times
+
+dangers-> appears: 1 times
+
+invasion-> appears: 1 times
+
+without-> appears: 3 times
+
+convulsions-> appears: 1 times
+
+within-> appears: 1 times
+
+endeavoured-> appears: 2 times
+
+prevent-> appears: 1 times
+
+population-> appears: 1 times
+
+obstructing-> appears: 1 times
+
+naturalization-> appears: 1 times
+
+foreigners-> appears: 1 times
+
+refusing-> appears: 2 times
+
+encourage-> appears: 1 times
+
+migrations-> appears: 1 times
+
+hither-> appears: 2 times
+
+raising-> appears: 1 times
+
+conditions-> appears: 2 times
+
+appropriations-> appears: 1 times
+
+lands-> appears: 1 times
+
+obstructed-> appears: 1 times
+
+administration-> appears: 1 times
+
+justice-> appears: 3 times
+
+establishing-> appears: 2 times
+
+judiciary-> appears: 1 times
+
+made-> appears: 1 times
+
+judges-> appears: 1 times
+
+dependent-> appears: 1 times
+
+alone-> appears: 1 times
+
+tenure-> appears: 1 times
+
+offices-> appears: 2 times
+
+amount-> appears: 1 times
+
+payment-> appears: 1 times
+
+salaries-> appears: 1 times
+
+erected-> appears: 1 times
+
+multitude-> appears: 1 times
+
+sent-> appears: 1 times
+
+swarms-> appears: 1 times
+
+officers-> appears: 1 times
+
+harrass-> appears: 1 times
+
+our-> appears: 26 times
+
+eat-> appears: 1 times
+
+out-> appears: 2 times
+
+substance-> appears: 1 times
+
+kept-> appears: 1 times
+
+us-> appears: 11 times
+
+times-> appears: 1 times
+
+peace-> appears: 3 times
+
+standing-> appears: 1 times
+
+armies-> appears: 2 times
+
+legislatures-> appears: 2 times
+
+affected-> appears: 1 times
+
+render-> appears: 2 times
+
+military-> appears: 1 times
+
+independent-> appears: 4 times
+
+superior-> appears: 1 times
+
+civil-> appears: 1 times
+
+power-> appears: 3 times
+
+combined-> appears: 1 times
+
+subject-> appears: 1 times
+
+jurisdiction-> appears: 2 times
+
+foreign-> appears: 2 times
+
+constitution-> appears: 1 times
+
+unacknowledged-> appears: 1 times
+
+giving-> appears: 1 times
+
+acts-> appears: 2 times
+
+pretended-> appears: 2 times
+
+legislation-> appears: 1 times
+
+quartering-> appears: 1 times
+
+armed-> appears: 1 times
+
+troops-> appears: 1 times
+
+protecting-> appears: 1 times
+
+mock-> appears: 1 times
+
+trial-> appears: 2 times
+
+punishment-> appears: 1 times
+
+murders-> appears: 1 times
+
+commit-> appears: 1 times
+
+inhabitants-> appears: 2 times
+
+cutting-> appears: 1 times
+
+trade-> appears: 1 times
+
+parts-> appears: 1 times
+
+imposing-> appears: 1 times
+
+taxes-> appears: 1 times
+
+depriving-> appears: 1 times
+
+many-> appears: 1 times
+
+cases-> appears: 2 times
+
+benefits-> appears: 1 times
+
+jury-> appears: 1 times
+
+transporting-> appears: 2 times
+
+beyond-> appears: 1 times
+
+seas-> appears: 3 times
+
+tried-> appears: 1 times
+
+offences-> appears: 1 times
+
+free-> appears: 4 times
+
+system-> appears: 1 times
+
+english-> appears: 1 times
+
+neighbouring-> appears: 1 times
+
+province-> appears: 1 times
+
+therein-> appears: 1 times
+
+arbitrary-> appears: 1 times
+
+enlarging-> appears: 1 times
+
+boundaries-> appears: 1 times
+
+once-> appears: 1 times
+
+example-> appears: 1 times
+
+fit-> appears: 1 times
+
+instrument-> appears: 1 times
+
+introducing-> appears: 1 times
+
+rule-> appears: 2 times
+
+taking-> appears: 1 times
+
+away-> appears: 1 times
+
+charters-> appears: 1 times
+
+valuable-> appears: 1 times
+
+altering-> appears: 1 times
+
+fundamentally-> appears: 1 times
+
+suspending-> appears: 1 times
+
+own-> appears: 1 times
+
+declaring-> appears: 2 times
+
+invested-> appears: 1 times
+
+legislate-> appears: 1 times
+
+whatsoever-> appears: 1 times
+
+abdicated-> appears: 1 times
+
+here-> appears: 2 times
+
+protection-> appears: 2 times
+
+waging-> appears: 1 times
+
+war-> appears: 3 times
+
+against-> appears: 2 times
+
+plundered-> appears: 1 times
+
+ravaged-> appears: 1 times
+
+coasts-> appears: 1 times
+
+burnt-> appears: 1 times
+
+towns-> appears: 1 times
+
+destroyed-> appears: 1 times
+
+lives-> appears: 2 times
+
+mercenaries-> appears: 1 times
+
+complete-> appears: 1 times
+
+works-> appears: 1 times
+
+death-> appears: 1 times
+
+desolation-> appears: 1 times
+
+already-> appears: 1 times
+
+begun-> appears: 1 times
+
+circumstances-> appears: 2 times
+
+cruelty-> appears: 1 times
+
+perfidy-> appears: 1 times
+
+scarcely-> appears: 1 times
+
+paralleled-> appears: 1 times
+
+barbarous-> appears: 1 times
+
+ages-> appears: 2 times
+
+totally-> appears: 2 times
+
+unworthy-> appears: 1 times
+
+head-> appears: 1 times
+
+civilized-> appears: 1 times
+
+nation-> appears: 1 times
+
+constrained-> appears: 1 times
+
+fellowcitizens-> appears: 1 times
+
+taken-> appears: 1 times
+
+captive-> appears: 1 times
+
+high-> appears: 1 times
+
+bear-> appears: 1 times
+
+arms-> appears: 1 times
+
+country-> appears: 1 times
+
+become-> appears: 1 times
+
+executioners-> appears: 1 times
+
+friends-> appears: 2 times
+
+brethren-> appears: 2 times
+
+fall-> appears: 1 times
+
+hands-> appears: 1 times
+
+excited-> appears: 1 times
+
+domestic-> appears: 1 times
+
+insurrections-> appears: 1 times
+
+amongst-> appears: 1 times
+
+bring-> appears: 1 times
+
+frontiers-> appears: 1 times
+
+merciless-> appears: 1 times
+
+indian-> appears: 1 times
+
+savages-> appears: 1 times
+
+whose-> appears: 2 times
+
+known-> appears: 1 times
+
+warfare-> appears: 1 times
+
+undistinguished-> appears: 1 times
+
+destruction-> appears: 1 times
+
+sexes-> appears: 1 times
+
+every-> appears: 2 times
+
+stage-> appears: 1 times
+
+oppressions-> appears: 1 times
+
+petitioned-> appears: 1 times
+
+redress-> appears: 1 times
+
+humble-> appears: 1 times
+
+terms-> appears: 1 times
+
+petitions-> appears: 1 times
+
+answered-> appears: 1 times
+
+injury-> appears: 1 times
+
+prince-> appears: 1 times
+
+character-> appears: 1 times
+
+thus-> appears: 1 times
+
+marked-> appears: 1 times
+
+act-> appears: 1 times
+
+may-> appears: 2 times
+
+define-> appears: 1 times
+
+tyrant-> appears: 1 times
+
+unfit-> appears: 1 times
+
+ruler-> appears: 1 times
+
+nor-> appears: 1 times
+
+wanting-> appears: 1 times
+
+attentions-> appears: 1 times
+
+british-> appears: 2 times
+
+warned-> appears: 1 times
+
+attempts-> appears: 1 times
+
+extend-> appears: 1 times
+
+unwarrantable-> appears: 1 times
+
+reminded-> appears: 1 times
+
+emigration-> appears: 1 times
+
+settlement-> appears: 1 times
+
+appealed-> appears: 1 times
+
+native-> appears: 1 times
+
+magnanimity-> appears: 1 times
+
+conjured-> appears: 1 times
+
+ties-> appears: 1 times
+
+common-> appears: 1 times
+
+kindred-> appears: 1 times
+
+disavow-> appears: 1 times
+
+inevitably-> appears: 1 times
+
+interrupt-> appears: 1 times
+
+connexions-> appears: 1 times
+
+correspondence-> appears: 1 times
+
+too-> appears: 1 times
+
+deaf-> appears: 1 times
+
+voice-> appears: 1 times
+
+consanguinity-> appears: 1 times
+
+must-> appears: 1 times
+
+therefore-> appears: 2 times
+
+acquiesce-> appears: 1 times
+
+denounces-> appears: 1 times
+
+rest-> appears: 1 times
+
+enemies-> appears: 1 times
+
+representatives-> appears: 1 times
+
+united-> appears: 2 times
+
+america-> appears: 1 times
+
+general-> appears: 1 times
+
+congress-> appears: 1 times
+
+assembled-> appears: 1 times
+
+appealing-> appears: 1 times
+
+supreme-> appears: 1 times
+
+judge-> appears: 1 times
+
+rectitude-> appears: 1 times
+
+intentions-> appears: 1 times
+
+do-> appears: 3 times
+
+name-> appears: 1 times
+
+authority-> appears: 1 times
+
+solemnly-> appears: 1 times
+
+publish-> appears: 1 times
+
+ought-> appears: 2 times
+
+absolved-> appears: 1 times
+
+allegiance-> appears: 1 times
+
+crown-> appears: 1 times
+
+connexion-> appears: 1 times
+
+between-> appears: 1 times
+
+full-> appears: 1 times
+
+levy-> appears: 1 times
+
+conclude-> appears: 1 times
+
+contract-> appears: 1 times
+
+alliances-> appears: 1 times
+
+establish-> appears: 1 times
+
+commerce-> appears: 1 times
+
+things-> appears: 1 times
+
+support-> appears: 1 times
+
+declaration-> appears: 1 times
+
+firm-> appears: 1 times
+
+reliance-> appears: 1 times
+
+divine-> appears: 1 times
+
+providence-> appears: 1 times
+
+mutually-> appears: 1 times
+
+pledge-> appears: 1 times
+
+each-> appears: 1 times
+
+fortunes-> appears: 1 times
+
+sacred-> appears: 1 times
+
+honour-> appears: 1 times
+
