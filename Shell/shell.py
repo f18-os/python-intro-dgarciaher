@@ -39,24 +39,23 @@ elif pid == 0:
 		parent = intputArray[0].split()
 		print (parent)
 		for dir in re.split(":", os.environ['PATH']):
-			program = "%s%s" % (dir, parent[0])
-			try:
-				os.execve(program, parent, os.environ)
-			except FileNotFoundError:
-				pass
+				program = "%s/%s" % (dir, parent[0])
+				try:
+					os.execve(program, parent, os.environ)
+				except FileNotFoundError:
+					pass
 
 		os.write(2, ("Child:    Error: Could not exec %s\n" % parent[0]).encode())
 		sys.exit(1)
 
 	else:
 		parent = userInput.split()
-
 		for dir in re.split(":", os.environ['PATH']):
-			program = "%s%s" % (dir, parent[0])
-			try:
-				os.execve(program, parent, os.environ)
-			except FileNotFoundError:
-				pass
+				program = "%s/%s" % (dir, parent[0])
+				try:
+					os.execve(program, parent, os.environ)
+				except FileNotFoundError:
+					pass
 
 		os.write(2, ("Child:    Error: Could not exec %s\n" % parent[0]).encode())
 		sys.exit(1)
